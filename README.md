@@ -1,1 +1,1 @@
-# <a href="repository.KodiMania.zip">DOWNLOAD DO REPOSITÓRIO</a>
+# <a href="repository.KodiMania-1.0.zip">DOWNLOAD DO REPOSITÓRIO</a>
