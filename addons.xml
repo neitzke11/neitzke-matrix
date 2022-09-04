@@ -1,0 +1,25 @@
+<addons>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.KodiMania" name="Repositório KodiMania" version="1.0" provider-name="KodiMania">    
+	<requires>
+        <import addon="xbmc.addon" version="12.0.0"/>
+		</requires>	
+	<extension point="xbmc.addon.repository" name="KodiMania">		
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/neitzke11/neitzke-matrix/master/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/neitzke11/neitzke-matrix/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/neitzke11/neitzke-matrix/master/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Repositório KodiMania</summary>
+        <description>.</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+</addons>
