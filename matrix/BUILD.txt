@@ -1,3 +1,7 @@
+id="plugin.program.OpenWizard"
+version="2.0.7"
+zip="url.to.wizard"
+
 name="Neitzke BUILD"
 version="1.0"
 url="https://raw.githubusercontent.com/neitzke11/neitzke-matrix/main/matrix/1.zip"
