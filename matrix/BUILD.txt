@@ -1,5 +1,5 @@
-name="teste neitzke"
-version="4.23"
+name="Neitzke BUILD"
+version="1.0"
 url="https://raw.githubusercontent.com/neitzke11/neitzke-matrix/main/matrix/1.zip"
 minor="http://"
 gui="http://"
@@ -10,7 +10,4 @@ fanart="https://i.ibb.co/y8P1pKj/bbbbb.png"
 preview="http://"
 adult="no"
 info="http://"
-description="versão teste2
-123  2
-teste2"
-
+description=""
