@@ -1,20 +1,4 @@
 name="teste neitzke"
-version="4.21"
-url="https://raw.githubusercontent.com/neitzke11/neitzke-matrix/main/matrix/1.zip"
-minor="http://"
-gui="http://"
-kodi="19"
-theme="http://"
-icon="https://i.ibb.co/y8P1pKj/bbbbb.png"
-fanart="https://i.ibb.co/y8P1pKj/bbbbb.png"
-preview="http://"
-adult="no"
-info="http://"
-description="versão teste
-123  
-teste"
-
-name="teste neitzke"
 version="4.22"
 url="https://raw.githubusercontent.com/neitzke11/neitzke-matrix/main/matrix/2.zip"
 minor="http://"
@@ -26,6 +10,7 @@ fanart="https://i.ibb.co/y8P1pKj/bbbbb.png"
 preview="http://"
 adult="no"
 info="http://"
-description="versão teste
-123  
-teste"
+description="versão teste2
+123  2
+teste2"
+
