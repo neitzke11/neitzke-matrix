@@ -17,7 +17,7 @@ info="http://"
 description="Teste Inicial"
 
 
-name="Teste-2"
+name="Teste"
 version="1.1"
 url="https://raw.githubusercontent.com/neitzke11/neitzke-matrix/main/matrix/2.zip"
 minor="http://"
